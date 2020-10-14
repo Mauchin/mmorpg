@@ -33,3 +33,5 @@ scoreboard objectives add mmorpg_thunder_pene dummy
 scoreboard objectives add mmorpg_nature_pene dummy
 scoreboard objectives add mmorpg_light_pene dummy
 scoreboard objectives add mmorpg_dark_pene dummy
+scoreboard objectives add mmorpg_slot dummy
+scoreboard objectives add mmorpg_var dummy
