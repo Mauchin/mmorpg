@@ -41,4 +41,10 @@ scoreboard objectives add mmorpg_nat_pene dummy
 scoreboard objectives add mmorpg_lig_pene dummy
 scoreboard objectives add mmorpg_dar_pene dummy
 scoreboard objectives add mmorpg_slot dummy
-scoreboard objectives add mmorpg_var dummy
+scoreboard objectives add mmorpg_phy_var dummy
+scoreboard objectives add mmorpg_wat_var dummy
+scoreboard objectives add mmorpg_fir_var dummy
+scoreboard objectives add mmorpg_nat_var dummy
+scoreboard objectives add mmorpg_thu_var dummy
+scoreboard objectives add mmorpg_lig_var dummy
+scoreboard objectives add mmorpg_dar_var dummy
