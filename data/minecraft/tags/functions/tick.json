@@ -1,5 +1,5 @@
 {
-  "values":{
-    "mmorpg:main/cal?"
-  }
+  "values":[
+    "mmorpg:tick/main"
+  ]
 }
