@@ -118,3 +118,11 @@ scoreboard objectives add mmorpg_ene_reg dummy
 scoreboard objectives add mmorpg_mana_reg dummy
 scoreboard objectives add mmorpg_speed dummy
 scoreboard objectives add mmorpg_level level
+scoreboard objectives add mmorpg_wand minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add mmorpg_sneaking minecraft.custom:minecraft.sneak_time
+scoreboard objectives add mmorpg_skill dummy
+scoreboard objectives add mmorpg_ran_skill dummy
+scoreboard objectives add mmorpg_ran_mana dummy
+scoreboard objectives add mmorpg_ran_ene dummy
+scoreboard objectives add mmorpg_ran_type dummy
+scoreboard objectives add mmorpg_ran_power dummy
