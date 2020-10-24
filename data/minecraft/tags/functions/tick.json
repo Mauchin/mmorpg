@@ -1,5 +1,6 @@
 {
   "values":[
-    "mmorpg:tick/main"
+    "mmorpg:tick/main",
+    "mmorpg:skill/skillbar/main"
   ]
 }
