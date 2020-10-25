@@ -126,3 +126,4 @@ scoreboard objectives add mmorpg_ran_mana dummy
 scoreboard objectives add mmorpg_ran_ene dummy
 scoreboard objectives add mmorpg_ran_type dummy
 scoreboard objectives add mmorpg_ran_power dummy
+scoreboard objectives add mmorpg_ran_ele dummy
